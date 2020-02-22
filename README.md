@@ -224,8 +224,4 @@ In firefox we can even change settings related to other installed extensions, Ca
 
 As per my test cases, chrome is safe against this vulnerability since it does not allows any bookmarklets on privileged pages. 
 
-### Root Cause
-
------
-
 Bookmarks are also gettings synced to other connected devices which belongs to the same account, which is again another possible source of the attack. 
